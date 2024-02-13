@@ -1,4 +1,5 @@
-![banner](https://picsum.photos/800/250)
+![banner]![BlackG](https://github.com/Eto454/Eto454.github.io/assets/126307553/635256e4-2137-4107-bec9-4a889f5839b7)
+
 
 สำหรับรายวิชา oop
 
